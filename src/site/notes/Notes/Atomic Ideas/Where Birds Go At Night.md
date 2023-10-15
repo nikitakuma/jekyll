@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Ideas/Where Birds Go At Night.md","permalink":"/ideas/where-birds-go-at-night/","tags":["note"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/atomic-ideas/where-birds-go-at-night/","tags":["note"],"noteIcon":""}
 ---
 
 Tags: [[Birds\|Birds]] | [[Adaptation\|Adaptation]]
