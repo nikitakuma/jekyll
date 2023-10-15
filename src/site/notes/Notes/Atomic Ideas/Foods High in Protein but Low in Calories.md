@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Ideas/Foods High in Protein but Low in Calories.md","permalink":"/ideas/foods-high-in-protein-but-low-in-calories/","noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/atomic-ideas/foods-high-in-protein-but-low-in-calories/","noteIcon":""}
 ---
 
 Tags: [[Topics/Protein\|Protein]] | [[Topics/Nutrition\|Nutrition]] | [[Projects/Losing Weight\|Losing Weight]]
