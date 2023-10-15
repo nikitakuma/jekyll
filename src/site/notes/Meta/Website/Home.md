@@ -14,7 +14,14 @@ testing my research template to see how that looks:
 
 
 Dataview is supported which is hella nice:
-- [[Notes/Atomic Ideas/Where Birds Go At Night\|Where Birds Go At Night]]
+- [[DUMB wogalterEffectsCostSocial1989\|DUMB wogalterEffectsCostSocial1989]]
+- [[Meta/Website/Home\|Home]]
 - [[Notes/Atomic Ideas/Foods High in Protein but Low in Calories\|Foods High in Protein but Low in Calories]]
+- [[Notes/Atomic Ideas/Where Birds Go At Night\|Where Birds Go At Night]]
+- [[Resources/Books/Books\|Books]]
+- [[Resources/Books/The Hobbit\|The Hobbit]]
+- [[Resources/Movies/Movies\|Movies]]
+- [[Resources/Mythology/Mythology\|Mythology]]
+- [[readr & data.table\|readr & data.table]]
 
 { .block-language-dataview}
