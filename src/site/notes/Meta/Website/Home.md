@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home/Home.md","permalink":"/home/home/","tags":["gardenEntry"],"noteIcon":"home"}
+{"dg-publish":true,"permalink":"/meta/website/home/","tags":["gardenEntry"],"noteIcon":"home"}
 ---
 
 Testing Oleeskild’s [digital garden plugin](https://github.com/oleeskild/obsidian-digital-garden)
